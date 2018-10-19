@@ -1,0 +1,33 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "37a9d22e749dd64d5c8a47d11983f851df3378985e9a82ec456ed082a10435ef"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.6"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "split-folders": {
+            "hashes": [
+                "sha256:586ffdb2cb830d379041b0f7ae64f2432df52cf1249e62254bb1f54a68c6275b",
+                "sha256:980f55301d444e55d00233c619ed9a5a903e6910fb6224a7b60022c2bfce6d0f"
+            ],
+            "index": "pypi",
+            "version": "==0.2.0"
+        },
+        "tweets-with-images": {
+            "git": "https://github.com/jfilter/tweets-with-images",
+            "ref": "1534bd7b835add814c2fcc31a6b76176f1c95297"
+        }
+    },
+    "develop": {}
+}
